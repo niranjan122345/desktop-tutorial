@@ -14,4 +14,6 @@ The original dataset was obtained from the 1994 U.S. Census database. The census
 * Image based income prediction: upload image of income prediction
 * Demo video: Visual walkthrough to guide users
   
-# Demo video: 
+# Demo video: https://github.com/niranjan122345/desktop-tutorial/assets/143377183/21e0d265-8497-40fe-9b22-82e10c41a97f
+
+
