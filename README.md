@@ -13,4 +13,6 @@ Image based income prediction: upload images of income prediction
 demo video: Visual walkthrough the guide users
 
 
-Demo video: 
+Demo video: https://github.com/niranjan122345/desktop-tutorial/assets/143377183/91ad6174-f383-4c5a-98e8-a2da6ed5374c
+
+
