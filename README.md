@@ -16,4 +16,4 @@ The original dataset was obtained from the 1994 U.S. Census database. The census
   
 # Demo video: https://github.com/niranjan122345/desktop-tutorial/assets/143377183/21e0d265-8497-40fe-9b22-82e10c41a97f
 
-
+# Screenshot:
