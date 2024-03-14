@@ -18,3 +18,9 @@ The original dataset was obtained from the 1994 U.S. Census database. The census
 
 # Screenshot: !(https://github.com/niranjan122345/desktop-tutorial/assets/143377183/2d13a9cd-6097-42e4-90e7-d2f91c8806f2)
 
+# Approach
+
+* Data description
+* We will be using Income prediction dataset in the kaggle repository. This data set is satisfying our data requirement.
+
+* 
