@@ -20,8 +20,8 @@ The original dataset was obtained from the 1994 U.S. Census database. The census
 
 # Approach
 
-* Data description:  We will be using Income prediction dataset in the kaggle repository. This data set is satisfying our data requirement.
+    * Data description
 
-* We will be using Income prediction dataset in the kaggle repository. This data set is satisfying our data requirement.
+        * We will be using Income prediction dataset in the kaggle repository. This data set is satisfying our data requirement.
 
 * 
